@@ -4,8 +4,8 @@ You may set this script to run every 24h and it will dump all the data in the CS
 Steps:
 1. Get your API token on coinmarketcap and paste it into the relevant places in the script
 
-2. Run script #1 to setup a CSV 
-3. Run script #2 to fill CSV with data and automate its launch every 24h
+2. Run script "Create_file.py" to setup a CSV 
+3. Run script "Coinmarketap.py" to fill CSV with data and automate its launch every 24h
 4. Set up relevant triggers for coins (I.e. spike in volume) and consider these coins for your crypto portfolio
 5. Profit! 
 
